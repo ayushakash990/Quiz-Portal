@@ -49,3 +49,4 @@ Rating shows the marks rating student got and the student can also give rating ,
 
 * # Contributors
 * <b> Ayush Akash </b> - [ayushakash990](https://github.com/ayushakash990)
+* <b> Manvendra singh  </b> - [Man-vendra](https://github.com/Man-vendra)
