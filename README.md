@@ -48,5 +48,4 @@ It shows the marks of students who have already completed the test.
 Rating shows the marks rating student got and the student can also give rating , on submitting they will see their scores.
 
 * # Contributors
-* <b> Manvendra Singh </b> - [Man-vendra](https://github.com/Man-vendra)
 * <b> Ayush Akash </b> - [ayushakash990](https://github.com/ayushakash990)
